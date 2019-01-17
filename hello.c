@@ -9,6 +9,9 @@
 
 int main() {
 
-    printf("Hello");
-    printf("Computer Science")
+    printf("Name: Ben Hobbs\n");
+    printf("Major: Computer Science\n\n")
+
+    printf("Name: \n");
+    printf("Major: \n")
 }
