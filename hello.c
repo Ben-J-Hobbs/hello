@@ -12,6 +12,6 @@ int main() {
     printf("Name: Ben Hobbs\n");
     printf("Major: Computer Science\n\n")
 
-    printf("Name: \n");
-    printf("Major: \n")
+    printf("Name: Theo Joseph \n");
+    printf("Major: Undeclared\n")
 }
